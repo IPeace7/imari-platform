@@ -1,0 +1,6 @@
+{
+  "name": "IMARI — Smart Waste & Composting Platform",
+  "description": "Smart waste sorting, organic recovery, and composting monitoring platform for a cleaner, greener Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
